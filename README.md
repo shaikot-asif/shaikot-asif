@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaikot-asif&show_icons=true&locale=en&layout=compact" alt="shaikot-asif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaikot-asif&show_icons=true&locale=en" alt="shaikot-asif" /></p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaikot-asif" alt="shaikot-asif" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaikot-asif&" alt="shaikot-asif" /></p>
