@@ -1,6 +1,6 @@
 ### Hi there 👋, Shaikot Ahmed Asif
 #### Frontend Developer
-![Frontend Developer]([![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=24&pause=1000&background=313131F0&center=true&vCenter=true&random=true&width=461&lines=Self+Learner;I+love+to+take+challenges)](https://git.io/typing-svg))
+([![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=900&size=24&pause=1000&background=313131F0&center=true&vCenter=true&random=true&width=461&lines=Self+Learner;I+love+to+take+challenges)](https://git.io/typing-svg))
 
 I'm Shaikot Ahmed Asif, a passionate learner and Frontend Developer currently pursuing Computer Science & Engineering at Bangladesh University of Business and Technology (BUBT)
 
