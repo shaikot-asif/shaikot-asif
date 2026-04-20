@@ -77,6 +77,14 @@ status    : Open to collaborations ✅
 
 ---
 
+## ⚡ Skills at a Glance
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,sass,nodejs,express,mongodb,mysql,git,linux,figma,ps,ai,c,cpp,cs&perline=10" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,18 +98,10 @@ status    : Open to collaborations ✅
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikot-asif&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikot-asif&theme=tokyo-night&hide_border=true&area=true&area_color=0e75b6" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaikot-asif&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
