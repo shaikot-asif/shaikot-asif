@@ -93,7 +93,7 @@ status    : Open to collaborations ✅
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikot-asif&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shaikot-asif&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" />
 </div>
 
 ---
